@@ -4,7 +4,10 @@ I am a data scientist with two years of experience in the field. I have develope
 
 My code mainly uses Python and its libraries/frameworks to develop data-driven solutions for different kinds of problems. For my master's degree, I am currently working with some variations of Graph Neural Networks (GNNs) to create industrial solutions.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasTomazini&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasTomazini&theme=dark)](https://git.io/streak-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasTomazini&show_icons=true&theme=dark)
 
 <!--
 **LucasTomazini/LucasTomazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
