@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello, My name is Lucas Tomazini 👋
 
+I'm a data scientist and master degree student. I have worked with a variety of data (graphs, texts, images, etc). In my master degree I currently working with some variations of Graph Neural Network. In my current role I mainly use python in and their librarys/frameworks to make solution involving machine learning and data science.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasTomazini&theme=prussian)](https://git.io/streak-stats)
 
