@@ -4,8 +4,11 @@ I am a data scientist with two years of experience in the field. I have develope
 
 My code mainly uses Python and its libraries/frameworks to develop data-driven solutions for different kinds of problems. For my master's degree, I am currently working with some variations of Graph Neural Networks (GNNs) to create industrial solutions.
 
-[<imng align='left' alt='LucasTomazini | LinkedIn' width='22px' src='./linkedin.svg' />][linkedin]
-[linkedin] : https://br.linkedin.com/in/lucas-tomazini-aa775938
+[<imng align='left' alt='LucasTomazini | LinkedIn' width='22px' src='./linkedin.svg' />]
+
+
+[linkedin]
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasTomazini&theme=dark)](https://git.io/streak-stats)
 
@@ -14,6 +17,7 @@ My code mainly uses Python and its libraries/frameworks to develop data-driven s
 
 [![My Skills](https://skillicons.dev/icons?i=java,pytorch,nodejs,figma&theme=light)](https://skillicons.dev)
 
+[linkedin]: https://br.linkedin.com/in/lucas-tomazini-aa775938
 <!--
 **LucasTomazini/LucasTomazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
