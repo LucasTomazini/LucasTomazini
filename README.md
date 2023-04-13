@@ -9,6 +9,7 @@ My code mainly uses Python and its libraries/frameworks to develop data-driven s
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasTomazini&show_icons=true&theme=dark)
 
+
 <!--
 **LucasTomazini/LucasTomazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
