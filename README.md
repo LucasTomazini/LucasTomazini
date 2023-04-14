@@ -9,6 +9,11 @@ My code mainly uses Python and its libraries/frameworks to develop data-driven s
 
 #### Publiseh Researches
 
+<a href='https://www.researchgate.net/publication/362203750_Data-driven_leak_detection_and_localization_using_LPWAN_and_Deep_Learning' target= '_self'> Data-driven leak detection and localization using LPWAN and Deep Learning </a>
+
+<a href='https://www.sba.org.br/cba2022/wp-content/uploads/artigos_cba2022/paper_8787.pdf' tagert = '_self'> Detecção de vazamentos em redes hidráulicas utilizando Redes Neurais de Grafos </a>
+
+
 #### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/lucas-tomazini"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
