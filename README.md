@@ -33,11 +33,7 @@ My code mainly uses Python and its libraries/frameworks to develop data-driven s
 ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
 ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTomazini&hide_progress=true&layout=compact&theme=vision-friendly-dark&show_icons=true)
-
-
 
 #### Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasTomazini&show_icons=true&theme=dark)
