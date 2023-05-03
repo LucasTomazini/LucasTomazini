@@ -3,9 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 
-I am a data scientist with two years of experience in the field. I have developed expertise in data cleaning, statistical analysis, data visualization, and machine learning.
+I am a data scientist and machine learning enthusiast who is deeply commited to developing data-drive solutions to complex problems. 
 
-My code mainly uses Python and its libraries/frameworks to develop data-driven solutions for different kinds of problems. For my master's degree, I am currently working with some variations of Graph Neural Networks (GNNs) to create industrial solutions.
+My first graduate is eletrical engeniering and now I am master's degree studend from UNESP where I am currently working with some variations of Graph Neural Networks (GNNs) to create industrial solutions.
+
+I have solid background in statistics and data analysis with experience working on projects in differents fields.
+
+On my Github profile, I showcase my expertise in machine learning and data science by some public projects.
+
+My code mainly uses Python and its libraries/frameworks to develop data-driven solutions for different kinds of problems. 
 
 #### Publiseh Researches
 
