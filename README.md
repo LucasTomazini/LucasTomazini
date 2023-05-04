@@ -11,7 +11,7 @@ I have solid background in statistics and data analysis with experience working 
 
 On my Github profile, I showcase my expertise in machine learning and data science by some public projects.
 
-My code mainly uses Python and its libraries/frameworks to develop data-driven solutions for different kinds of problems. 
+My codes mainly uses Python and its libraries/frameworks to develop data-driven solutions for different kinds of problems. 
 
 #### Publiseh Researches
 
